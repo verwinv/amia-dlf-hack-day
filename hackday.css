@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - coolors.co/f06339-75f4ce-e47af4-4b4f43-c7ddf9 */
+/* HSL */
+/* RGB */
+.hero-image {
+  background-image: url("img/22512681033_2b25ca47cb_z.jpg");
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  background-color: #c7ddf9;
+}
+
+h1, h2, h3 {
+  color: #f06339;
+}
+
+p {
+  color: #4b4f43;
+}
+
+/*# sourceMappingURL=hackday.css.map */
